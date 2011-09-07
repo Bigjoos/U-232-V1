@@ -1,0 +1,1 @@
+a:15:{s:2:"id";s:1:"1";s:8:"regusers";s:2:"64";s:10:"unconusers";s:1:"0";s:8:"torrents";s:1:"8";s:7:"seeders";s:2:"14";s:8:"leechers";s:1:"0";s:13:"torrentstoday";s:1:"0";s:6:"donors";s:1:"2";s:14:"unconnectables";s:1:"1";s:11:"forumtopics";s:1:"9";s:10:"forumposts";s:2:"41";s:9:"numactive";s:1:"7";s:5:"peers";s:2:"14";s:5:"ratio";N;s:11:"ratiounconn";s:6:"0.0714";}

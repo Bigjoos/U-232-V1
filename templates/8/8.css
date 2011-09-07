@@ -1,0 +1,26 @@
+@import "bbcode.css";
+@import "browse.css";
+@import "main.css";
+A:link {
+FONT-SIZE: 11px; 
+COLOR: #0968AA; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: none}
+
+A:visited {
+FONT-SIZE: 11px; 
+COLOR: #0968AA; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: none}
+
+A:active {
+FONT-SIZE: 11px; 
+COLOR: #0968AA; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: none}
+
+A:hover {
+FONT-SIZE: 11px; 
+COLOR: #3babf5; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: none}
